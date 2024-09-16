@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Poupinha do Piseiro - Juazeiro do Norte</title>
+    <title>Popinha do Piseiro - Juazeiro do Norte</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,7 +55,7 @@
 </head>
 <body>
     <header>
-        <h1>Poupinha do Piseiro</h1>
+        <h1>Popinha do Piseiro</h1>
         <p>Juazeiro do Norte, Ceará - BR</p>
     </header>
 
