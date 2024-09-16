@@ -73,7 +73,7 @@
 
         <section id="contato" class="section">
             <h2>Contato</h2>
-            <p>Você pode entrar em contato conosco pelo e-mail: <a href="mailto:contato@popinhadopiseiro.com">contato@popinhadopiseiro.com</a></p>
+            <p>Você pode entrar em contato conosco pelo e-mail: <a href="mailto:helenomatias123@gmail.com">helenomatias123@gmail.com</a></p>
         </section>
 
         <section id="localizacao" class="section">
