@@ -68,12 +68,12 @@
     <div class="container">
         <section id="sobre" class="section">
             <h2>Sobre</h2>
-            <p>Bem-vindo ao site de Poupinha do Piseiro! Aqui você encontrará todas as informações sobre nossas apresentações, novidades e muito mais. Fique ligado!</p>
+            <p>Bem-vindo ao site de Popinha do Piseiro! Aqui você encontrará todas as informações sobre nossas apresentações, novidades e muito mais. Fique ligado!</p>
         </section>
 
         <section id="contato" class="section">
             <h2>Contato</h2>
-            <p>Você pode entrar em contato conosco pelo e-mail: <a href="mailto:contato@poupinhadopiseiro.com">contato@poupinhadopiseiro.com</a></p>
+            <p>Você pode entrar em contato conosco pelo e-mail: <a href="mailto:contato@popinhadopiseiro.com">contato@popinhadopiseiro.com</a></p>
         </section>
 
         <section id="localizacao" class="section">
@@ -85,7 +85,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 Poupinha do Piseiro. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Popinha do Piseiro. Todos os direitos reservados.</p>
     </footer>
 
     <!-- Google Translate Script -->
